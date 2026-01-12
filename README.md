@@ -1,5 +1,5 @@
 # Malnutrition Detection using Deep Learning (YOLOv8, ResNet50, VGG16)
-* **Objective**: developed an automated system to classify malnutrition in children using imagery to assist in low-resource medical diagnosis.
+* **Objective**: developed an automated system to classify malnutrition in children using facial and full-body imagery to assist in low-resource medical diagnosis.
 * **Tech Stack**: Python, TensorFlow/Keras, PyTorch (YOLOv8), OpenCV, Pandas.
 * **Key Results**:
   * Achieved **95.70% Accuracy** using YOLOv8-cls on the test set.
